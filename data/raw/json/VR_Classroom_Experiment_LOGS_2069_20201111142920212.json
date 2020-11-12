@@ -1,0 +1,138 @@
+{
+    "condition": "Experiment condition is 0",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "0.1803484"
+}
+{
+    "condition": "Spawn frequency is 40",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "0.1803484"
+}
+{
+    "condition": "Spawn delay modifier is 5",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "0.1803484"
+}
+{
+    "condition": "Total number of walkers is 20",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "0.1803484"
+}
+{
+    "condition": "Video started",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "10.18155"
+}
+{
+    "condition": "Female Walker 6 has started their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "46.06584"
+}
+{
+    "condition": "Female Walker 6 has finished their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "61.03556"
+}
+{
+    "condition": "Male Walker 5 has started their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "90.04664"
+}
+{
+    "condition": "Male Walker 5 has finished their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "104.0578"
+}
+{
+    "condition": "Male Walker 10 has started their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "134.0605"
+}
+{
+    "condition": "Male Walker 10 has finished their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "148.08"
+}
+{
+    "condition": "Female Walker 1 has started their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "174.0425"
+}
+{
+    "condition": "Female Walker 1 has finished their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "189.0133"
+}
+{
+    "condition": "Female Walker 10 has started their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "217.0278"
+}
+{
+    "condition": "Female Walker 10 has finished their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "231.0467"
+}
+{
+    "condition": "Male Walker 8 has started their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "259.0388"
+}
+{
+    "condition": "Male Walker 8 has finished their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "274.0133"
+}
+{
+    "condition": "Female Walker 2 has started their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "303.0526"
+}
+{
+    "condition": "Female Walker 2 has finished their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "318.0244"
+}
+{
+    "condition": "Female Walker 4 has started their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "346.0663"
+}
+{
+    "condition": "Female Walker 4 has finished their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "360.08"
+}
+{
+    "condition": "Male Walker 4 has started their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "388.0479"
+}
+{
+    "condition": "Male Walker 4 has finished their journey.",
+    "stackTrace": "",
+    "type": 3,
+    "dateTime": "402.0689"
+}
